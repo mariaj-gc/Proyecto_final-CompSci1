@@ -1,7 +1,7 @@
-#Proyecto Final - CompSci1
+# Proyecto Final - CompSci1
 Integrantes: José Felipe Sanabria, María José Giraldo
 ---
-#Descripción del proyecto
+# Descripción del proyecto
 Este proyecto, correspondiente a la asignatura de Computación Científica, busca aplicar los conocimientos y técnicas computacionales aprendidos en clase a las álgebras de representación. Más específicamente, se propone una aplicación de las álgebras de configuración de Brauer a la simulación de un sistema de transporte integrado en Bogotá.
 
 Utilizando una base de datos generada con inteligencia artificial, que representa los tiempos que tarda este sistema en llegar a sus paradas establecidas, el tiempo que demora en recoger y dejar pasajeros, la demanda en cada estación, y otras variables relevantes, construimos una representación algebraica aplicada del sistema.
