@@ -1,7 +1,7 @@
 # Proyecto Final - CompSci1
 
 *Integrantes*: José Felipe Sanabria, María José Giraldo
----
+
 # Descripción del proyecto
 Este proyecto, correspondiente a la asignatura de Computación Científica, busca aplicar los conocimientos y técnicas computacionales aprendidos en clase a las álgebras de representación. Más específicamente, se propone una aplicación de las álgebras de configuración de Brauer a la simulación de un sistema de transporte integrado en Bogotá.
 
@@ -21,6 +21,7 @@ Las flechas estacionarias representan el tiempo de espera del bus en cada estaci
 Posteriormente, calculamos los valores necesarios para construir el álgebra de configuración, incluyendo sus invariantes.
 
 Finalmente, con base en esta información, incluimos algunas sugerencias de optimización para mejorar los tiempos de recorrido de la ruta.
+
 ---
 # Material
 
